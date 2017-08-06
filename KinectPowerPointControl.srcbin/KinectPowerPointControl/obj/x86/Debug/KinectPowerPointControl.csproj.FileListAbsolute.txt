@@ -1,0 +1,61 @@
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.exe
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\MainWindow.baml
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\App.g.cs
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl_MarkupCompile.cache
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.g.resources
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.Properties.Resources.resources
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.exe
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.pdb
+C:\Users\phphat\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.pdb
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.exe
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.pdb
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\MainWindow.baml
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\App.g.cs
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl_MarkupCompile.cache
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.g.resources
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.Properties.Resources.resources
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.exe
+C:\Users\ThuHong\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.pdb
+C:\Users\Pham Loc\Desktop\MOBILE\source code 27_10\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.exe
+C:\Users\Pham Loc\Desktop\MOBILE\source code 27_10\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.pdb
+C:\Users\Pham Loc\Desktop\MOBILE\source code 27_10\KinectPowerPointControl.srcbin\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.exe
+C:\Users\Pham Loc\Desktop\MOBILE\source code 27_10\KinectPowerPointControl.srcbin\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.pdb
+C:\Users\Pham Loc\Desktop\MOBILE\source code 27_10\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\MainWindow.baml
+C:\Users\Pham Loc\Desktop\MOBILE\source code 27_10\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pham Loc\Desktop\MOBILE\source code 27_10\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\App.g.cs
+C:\Users\Pham Loc\Desktop\MOBILE\source code 27_10\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl_MarkupCompile.cache
+C:\Users\Pham Loc\Desktop\MOBILE\source code 27_10\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.g.resources
+C:\Users\Pham Loc\Desktop\MOBILE\source code 27_10\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.Properties.Resources.resources
+C:\Users\Pham Loc\Desktop\MOBILE\source code 27_10\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.csproj.GenerateResource.Cache
+C:\Users\Pham Loc\Desktop\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.exe
+C:\Users\Pham Loc\Desktop\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.pdb
+C:\Users\Pham Loc\Desktop\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.exe
+C:\Users\Pham Loc\Desktop\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.pdb
+C:\Users\Pham Loc\Desktop\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.csprojResolveAssemblyReference.cache
+C:\Users\Pham Loc\Desktop\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\MainWindow.baml
+C:\Users\Pham Loc\Desktop\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Pham Loc\Desktop\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\App.g.cs
+C:\Users\Pham Loc\Desktop\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl_MarkupCompile.cache
+C:\Users\Pham Loc\Desktop\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.g.resources
+C:\Users\Pham Loc\Desktop\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.Properties.Resources.resources
+C:\Users\Pham Loc\Desktop\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.csproj.GenerateResource.Cache
+D:\Phduc\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.exe
+D:\Phduc\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.pdb
+D:\Phduc\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.exe
+D:\Phduc\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\bin\Debug\KinectPowerPointControl.pdb
+D:\Phduc\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.csprojResolveAssemblyReference.cache
+D:\Phduc\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\MainWindow.baml
+D:\Phduc\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\MainWindow.g.cs
+D:\Phduc\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\App.g.cs
+D:\Phduc\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl_MarkupCompile.cache
+D:\Phduc\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.g.resources
+D:\Phduc\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.Properties.Resources.resources
+D:\Phduc\A DUC MOBILEROBOT\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.csproj.GenerateResource.Cache

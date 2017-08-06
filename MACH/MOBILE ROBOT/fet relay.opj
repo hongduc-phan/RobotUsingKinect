@@ -1,0 +1,141 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\fet relay.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify)
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "TRUE")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Report_File
+       "C:\Program Files\Orcad\Orcad WorkSpace\Projects\DU AN\BIBOT\MAIN DONG CO\MAIN_MOTOR.DRC")
+    (Netlist_TAB "5")
+    (LAYOUT_Netlist_File "FET RELAY.MNL")
+    (LAYOUT_PCB_Footprint "{PCB Footprint}")
+    (TRUE)
+    (LAYOUT_Units "0")
+    (TRUE)
+    (TRUE)
+    (TRUE)
+    (TRUE))
+  (Folder "Outputs"
+    (File ".\fet relay.drc"
+      (Type "Report"))
+    (File ".\fet relay.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File
+       "c:\program files\orcad\orcad workspace\projects\du an\bibot\main dong co\main_motor.drc"
+      (Type "Report")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("HEADER 10"
+      (FullPartName "HEADER 10.Normal")
+      (LibraryName "C:\PROGRAM FILES\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("HEADER 1"
+      (FullPartName "HEADER 1.Normal")
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("CAP POL"
+      (FullPartName "CAP POL.Normal")
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("DIODE SCHOTTKY"
+      (FullPartName "DIODE SCHOTTKY.Normal")
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (SW
+      (FullPartName "SW.Normal")
+      (LibraryName "E:\ORCAD\ORCAD.WORKSPACE\MY.LIBS\CAPTURE\MY.LIBS.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("NPN ECB"
+      (FullPartName "NPN ECB.Normal")
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("GND EARTH"
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\LIBRARY ORCAD 1.CAOVANHUONG.OLB")
+      (DeviceIndex "0"))
+    ("VCC  ARROW"
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\LIBRARY ORCAD 1.CAOVANHUONG.OLB")
+      (DeviceIndex "0"))
+    ("PNP ECB"
+      (FullPartName "PNP ECB.Normal")
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (IRF540N/TO
+      (FullPartName "IRF540N/TO.Normal")
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    (IRF540
+      (FullPartName "IRF540.Normal")
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("RELAY DPDT"
+      (FullPartName "RELAY DPDT.Normal")
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LED
+      (FullPartName "LED.Normal")
+      (LibraryName "E:\ORCAD\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    ("PC817.CAOVANHUONG "
+      (FullPartName "PC817.CAOVANHUONG .Normal")
+      (LibraryName
+         "G:\ORCAD\MY LIBS\THU VIEN ORCAD TONG  HOP\LIBRARY ORCAD 1.CAOVANHUONG.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\fet relay.dsn")
+      (Path "Design Resources" ".\fet relay.dsn" "SCHEMATIC1")
+      (Path "Outputs")
+      (Select "Design Resources" ".\fet relay.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -4 -23 0 200 0 329"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -23 44 1208 44 492")
+        (Scroll "0 450")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\PHAM LOC\DESKTOP\A DUC MOBILEROBOT\MACH\MOBILE ROBOT\FET RELAY.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))

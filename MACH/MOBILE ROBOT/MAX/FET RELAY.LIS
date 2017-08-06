@@ -1,0 +1,64 @@
+AutoECO Report
+FILE-A: C:\USERS\PHAM LOC\DESKTOP\UNSORTED\MOBILE_ROBOT\MACH\MOBILE ROBOT\MAX\FET RELAY.MAX
+FILE-B: C:\USERS\PHAM LOC\DESKTOP\UNSORTED\MOBILE_ROBOT\MACH\MOBILE ROBOT\FET RELAY.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding package HEADER_10
+Adding component J4
+Found library footprint with same name as part HEADER_10
+Adding net ADC0
+Adding net ADC1
+Adding net ADC2
+Adding net ADC3
+Adding net ADC4
+Adding net ADC5
+Adding net ADC6
+Adding net ADC7
+Adding J4.2 to net 0
+Adding R2.2 to net 3V3
+Adding IC1.1 to net 3V3
+Adding R13.2 to net 3V3
+Adding IC3.1 to net 3V3
+Adding R7.2 to net 3V3
+Adding IC2.1 to net 3V3
+Adding R17.2 to net 3V3
+Adding IC4.1 to net 3V3
+Adding J4.1 to net 5V
+Deleting U1.17 from net DIR1
+Adding U1.19 to net DIR1
+Deleting U1.19 from net DIR2
+Adding U1.22 to net DIR2
+Deleting U1.16 from net PWM1
+Adding U1.18 to net PWM1
+Deleting U1.18 from net PWM2
+Adding U1.21 to net PWM2
+Adding U1.10 to net ADC0
+Adding J4.3 to net ADC0
+Adding U1.11 to net ADC1
+Adding J4.4 to net ADC1
+Adding U1.12 to net ADC2
+Adding J4.5 to net ADC2
+Adding U1.13 to net ADC3
+Adding J4.6 to net ADC3
+Adding J4.7 to net ADC4
+Adding U1.14 to net ADC4
+Adding J4.8 to net ADC5
+Adding U1.15 to net ADC5
+Adding J4.9 to net ADC6
+Adding U1.16 to net ADC6
+Adding J4.10 to net ADC7
+Adding U1.17 to net ADC7
+Deleting net N85361
+Deleting net N84895
+Deleting net N83055
+Deleting net N79254
+Deleting net N71144
+Deleting net N71140
+Deleting net N70968
+Deleting net N70940
+Deleting net ENC2_B
+Deleting net ENC2_A
+Deleting net ENC1_B
+Deleting net ENC1_A
+Deleting net ENC POW
+*EOF*
+No errors found
